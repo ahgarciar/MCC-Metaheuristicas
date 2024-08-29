@@ -1,0 +1,14 @@
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/bin/Debug/net8.0/ProgramasClase
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/bin/Debug/net8.0/ProgramasClase.deps.json
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/bin/Debug/net8.0/ProgramasClase.runtimeconfig.json
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/bin/Debug/net8.0/ProgramasClase.dll
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/bin/Debug/net8.0/ProgramasClase.pdb
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.AssemblyInfoInputs.cache
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.AssemblyInfo.cs
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.csproj.CoreCompileInputs.cache
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.dll
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/refint/ProgramasClase.dll
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.pdb
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.genruntimeconfig.cache
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ref/ProgramasClase.dll
