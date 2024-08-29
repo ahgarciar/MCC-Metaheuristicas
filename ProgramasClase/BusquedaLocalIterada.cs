@@ -34,7 +34,7 @@ public class BusquedaLocalIterada {
 
             Console.WriteLine("\n\nBUSQUEDA ITERDA #" + (it+1).ToString()+ "\n");
 
-            busqueda_local_iterada(solucion_mejor_actual, tot_busquedas_local); //Ejemplo: 80 veces a repetir la busqueda local
+            busqueda_local(solucion_mejor_actual, tot_busquedas_local); //Ejemplo: 80 veces a repetir la busqueda local
 
             if (best_vo<vo_mejor_actual) { //si la solucion obtenida en busqueda local es mejor que la anterior
                 // , entonces me quedo con esa solucion...
@@ -61,7 +61,7 @@ public class BusquedaLocalIterada {
 
     }
 
-    public void busqueda_local_iterada(int[] solucion, int max_iteraciones)
+    public void busqueda_local(int[] solucion, int max_iteraciones)
     {
 
         int cont = 0;
