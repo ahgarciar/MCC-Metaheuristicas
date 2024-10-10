@@ -12,3 +12,4 @@
 /Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.pdb
 /Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.genruntimeconfig.cache
 /Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ref/ProgramasClase.dll
+/Users/alejandrogarciaruiz/Desktop/MCC-Metaheuristicas/ProgramasClase/obj/Debug/net8.0/ProgramasClase.sourcelink.json
